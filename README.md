@@ -9,8 +9,6 @@ Math WEB GUI UI VR Algorithm etc...
 
 Smile
 Philosophy
-Cry
-Rhetoric
 Game
 Math
 Imagination
